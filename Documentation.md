@@ -1,18 +1,3 @@
-# Introduction
-This Documentation Is Last Updated for Prerelease Beta 6.1
-## Why Choose Luna?
-  Reliable And Stable  
-  Beautful Design  
-  Open Sourced  
-  Amazing Features like key system, custom configs, prebuilt tabs and more!  
-  Smooth And Excellent Performance  
-  
-*Now Let's Get Started, Shall We?*
-
-**Also hope shlex will add this docs.sirius.menu but its fine here lol**  
-
-***You may use the github MD Sidebar to navigate through the documentation***
-
 
 # Documentation For Luna
 ## Booting The Library
